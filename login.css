@@ -45,7 +45,7 @@ h2 {
     position: absolute;
     top: 50%;
     left: 5px;
-    transform: translateY(-60%);
+    transform: translateY(-50%);
     font-size: 1em;
     color: white;
     transition: .5s;
